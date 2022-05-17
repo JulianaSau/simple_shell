@@ -5,7 +5,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 ## General
  - How does a shell work
- - What is a pid and a ppid
+ - What is a `pid` and a `ppid`
  - How to manipulate the environment of the current process
  - What is the difference between a function and a system call
  - How to create processes
